@@ -1,0 +1,21 @@
+input[type="button"]{
+    color: black;
+    border: solid black 2px;
+    width:130px;
+    height: 45px;
+    font-size: 19px;
+    font-weight: 600;
+}
+		
+#result{
+    background-color:white;
+    height: 45px;
+    width:400px;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+table{
+	margin-left: 340px;
+	margin-top: 190px;
+}
